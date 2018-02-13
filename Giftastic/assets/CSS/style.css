@@ -1,0 +1,12 @@
+body {
+    background-color: white;
+    color: blue;
+    font-size: 18px;
+
+}
+button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
